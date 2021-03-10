@@ -1,0 +1,23 @@
+{
+    "metadataChanged": true,
+    "cells": [
+        "added",
+        "same",
+        "deleted",
+        "same",
+        {
+            "sourceChanged": true,
+            "outputChanged": true,
+            "metadataChanged": false
+        },
+        "added",
+        "same",
+        "same",
+        "same",
+        "same",
+        "same",
+        "same",
+        "same",
+        "same"
+    ]
+}
